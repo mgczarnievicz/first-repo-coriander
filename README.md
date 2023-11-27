@@ -34,6 +34,13 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 we can add `line` of code `name=Gimena`
 
 
+### Block code
+
+```js
+let cohort = "Coriander";
+let students = 17;
+```
+
 
 
 
