@@ -19,3 +19,7 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 ## Link a page
 [Markdown Guid](https://www.markdownguide.org/cheat-sheet/)
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+
+## Image
+![Taylor Swift Eras tour](https://upload.wikimedia.org/wikipedia/en/3/33/The_Eras_Tour_poster.jpg)
