@@ -14,3 +14,8 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 - First Item
 - Second Item
 - Third Item
+
+
+## Link a page
+[Markdown Guid](https://www.markdownguide.org/cheat-sheet/)
+[Spiced Academy](https://www.spiced-academy.com/en)
