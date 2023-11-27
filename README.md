@@ -28,6 +28,11 @@ Today we are learning Github and Markdow. In the afternoon we will do the comput
 ![Dog](./Perro2.png)
 
 
+## Code
+
+### Code line
+we can add `line` of code `name=Gimena`
+
 
 
 
